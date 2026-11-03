@@ -1,7 +1,4 @@
 Vitor Suski
-Oi, turma! Eu sou o Vitor Suski e esta é a minha página no mural.
-
-Sobre mim
 Hobby: Jogar basquete
 Música ou jogo favorito: Minha musica favorita é "Amor de fim de noite"
 Minha meta para o curso
